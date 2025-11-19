@@ -1,0 +1,17 @@
+{
+  "OrderID": 1023,
+  "Address": "Av. Siempreviva 742",
+  "Status": "Pendiente",
+  "Articles": [
+    {
+      "Name": "Batería de litio",
+      "Quantity": 2,
+      "Dangerous": true
+    },
+    {
+      "Name": "Cuaderno A4",
+      "Quantity": 5,
+      "Dangerous": false
+    }
+  ]
+}
